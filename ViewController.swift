@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  prework
 //
-//  Created by Fate(Nasiba Shamsutdinova)  on 2/5/21.
+//  Created by Fate(Nasiba Sh)  on 2/5/21.
 //
 
 import UIKit
